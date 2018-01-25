@@ -1,0 +1,26 @@
+[
+    {
+        "before": "https://www.healthlinx.com",
+        "after": "http://healthlinx.test"
+    },
+    {
+        "before": "http://www.healthlinx.com",
+        "after": "http://healthlinx.test"
+    },
+    {
+        "before": "https://healthlinx.com",
+        "after": "http://healthlinx.test"
+    },
+    {
+        "before": "http://healthlinx.com",
+        "after": "http://healthlinx.test"
+    },
+    {
+        "before": "www.healthlinx.com",
+        "after": "http://healthlinx.test"
+    },
+    {
+        "before": "healthlinx.com/wp-content",
+        "after": "healthlinx.test/wp-content"
+    }
+]

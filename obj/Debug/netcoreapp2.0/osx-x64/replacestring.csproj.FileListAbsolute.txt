@@ -1,0 +1,13 @@
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/libhostpolicy.dylib
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/libhostfxr.dylib
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/replacestring
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/replacestring.deps.json
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/replacestring.runtimeconfig.json
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/replacestring.runtimeconfig.dev.json
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/replacestring.dll
+/Users/sarat/Desktop/playing/netname/replacestring/bin/Debug/netcoreapp2.0/osx-x64/replacestring.pdb
+/Users/sarat/Desktop/playing/netname/replacestring/obj/Debug/netcoreapp2.0/osx-x64/replacestring.csproj.CoreCompileInputs.cache
+/Users/sarat/Desktop/playing/netname/replacestring/obj/Debug/netcoreapp2.0/osx-x64/replacestring.AssemblyInfoInputs.cache
+/Users/sarat/Desktop/playing/netname/replacestring/obj/Debug/netcoreapp2.0/osx-x64/replacestring.AssemblyInfo.cs
+/Users/sarat/Desktop/playing/netname/replacestring/obj/Debug/netcoreapp2.0/osx-x64/replacestring.dll
+/Users/sarat/Desktop/playing/netname/replacestring/obj/Debug/netcoreapp2.0/osx-x64/replacestring.pdb
