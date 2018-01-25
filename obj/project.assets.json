@@ -5785,11 +5785,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarat/Desktop/playing/netname/replacestring/replacestring.csproj",
+      "projectUniqueName": "/Users/sarat/Dropbox/Side Quests/stringreplace/replacestring.csproj",
       "projectName": "replacestring",
-      "projectPath": "/Users/sarat/Desktop/playing/netname/replacestring/replacestring.csproj",
+      "projectPath": "/Users/sarat/Dropbox/Side Quests/stringreplace/replacestring.csproj",
       "packagesPath": "/Users/sarat/.nuget/packages/",
-      "outputPath": "/Users/sarat/Desktop/playing/netname/replacestring/obj/",
+      "outputPath": "/Users/sarat/Dropbox/Side Quests/stringreplace/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
